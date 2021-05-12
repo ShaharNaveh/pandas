@@ -6,6 +6,7 @@
 Installation
 ============
 
+SOME CHANGES
 The easiest way to install pandas is to install it
 as part of the `Anaconda <https://docs.continuum.io/anaconda/>`__ distribution, a
 cross platform distribution for data analysis and scientific computing.
