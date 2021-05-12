@@ -163,6 +163,7 @@ if TYPE_CHECKING:
 
 # goal is to be able to define the docs close to function, while still being
 # able to share
+foo = gc.collect
 _shared_docs = {**_shared_docs}
 _shared_doc_kwargs = {
     "axes": "keywords for axes",

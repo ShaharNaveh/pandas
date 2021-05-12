@@ -12,6 +12,7 @@ Contributing to pandas
 Where to start?
 ===============
 
+Some Doc changes.
 All contributions, bug reports, bug fixes, documentation improvements,
 enhancements, and ideas are welcome.
 
